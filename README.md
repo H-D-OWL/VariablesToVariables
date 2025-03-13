@@ -1,5 +1,5 @@
 # Variables-to-variables
-Adds nodes for converting variables not found in the standard library. You can find them by keywords: "Variables To Variables", "Variable To Variable", "Array To Array".
+Adds nodes for transforming variables, that not in the standard library. You can find them by keywords: "Variables To Variables", "Variable To Variable", "Array To Array".
 
 The zip file contains versions of the plugin for 5.0, 5.4, 5.5.
 
