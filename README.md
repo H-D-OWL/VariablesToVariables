@@ -1,2 +1,2 @@
 # Variables-to-variables---Extended-Standart-Library
-Adds nodes for transforming variables that are not in the standard library.
+Adds nodes for converting variables not found in the standard library.
